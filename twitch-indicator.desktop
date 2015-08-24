@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=twitch-indicator
+Comment=Twitch indicator
+Exec=twitch-indicator
+Terminal=false
+Type=Application
+Icon=/usr/share/twitch-indicator/icons/twitch-indicator.png
+Terminal=false
+Type=Application

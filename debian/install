@@ -1,0 +1,6 @@
+twitch-indicator.py usr/share/twitch-indicator/
+twitch-indicator.desktop usr/share/twitch-indicator/
+twitch-indicator.desktop usr/share/applications/
+twitch-indicator usr/bin/
+icons usr/share/twitch-indicator/
+

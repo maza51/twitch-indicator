@@ -1,0 +1,14 @@
+Source: twitch-indicator
+Section: net
+Priority: optional
+Maintainer: Reutov Kirill <maza51@mail.ru>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: https://github.com/maza51/twitch-indicator
+
+Package: twitch-indicator
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, python (>= 2.7), python-gi, python-appindicator
+Description: Twitch indicator for Ubuntu
+ Applet that shows how many and
+ which of your follow streamers online.

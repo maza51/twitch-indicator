@@ -1,0 +1,3 @@
+#!/bin/bash
+/usr/share/twitch-indicator/twitch-indicator.py
+exit 0
