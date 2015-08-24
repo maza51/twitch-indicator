@@ -1,5 +1,4 @@
 # twitch-indicator
-----
 
 Twitch indicator is an indicator - applet for Ubuntu
 
@@ -8,12 +7,10 @@ And if you have a library [Livestreamer](https://github.com/chrippa/livestreamer
 
 
 ## Demo
-----
 ![](http://i.imgur.com/NwlSU8D.png)
 
 
 ## Installation
-----
 #### Installation twitch-indicator:
 [Pre-built packages for Debian/Ubuntu are provided in our PPA](https://launchpad.net/~maza51/+archive/ubuntu/ppa)
 ```
