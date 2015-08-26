@@ -64,8 +64,7 @@ def update_streamers():
                         notify.show()
 
     ARR_STREAMERS = arr_streams
-    time.sleep(30)
-    update_streamers()
+    threading.Timer(30, update_streamers)
 
 
 class Twitch:

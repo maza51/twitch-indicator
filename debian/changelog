@@ -1,5 +1,5 @@
-twitch-indicator (0.4.1) trusty; urgency=medium
+twitch-indicator (0.4.2) trusty; urgency=medium
 
-  * Added icons
+  * Fix
 
- -- Reutov Kirill <maza51@mail.ru>  Sun, 23 Aug 2015 15:13:00 +0300
+ -- Reutov Kirill <maza51@mail.ru>  Sun, 26 Aug 2015 17:13:00 +0300
